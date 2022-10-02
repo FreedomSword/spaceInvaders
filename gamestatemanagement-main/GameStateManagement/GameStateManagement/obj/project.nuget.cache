@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tPz2rrDCvavmeRNiz98VPJBVqUeBqCoCY9hYiPVzqsTaKns0yRJxM41Ni7I5hSNfSbqaXmWlnefmHOgH3ltKkg==",
+  "success": true,
+  "projectFilePath": "D:\\ComputerSpiel\\1\\gamestatemanagement-main\\GameStateManagement\\GameStateManagement\\GameStateManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moham\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Moham\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
